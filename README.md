@@ -92,11 +92,11 @@ A powerful and modern Sega Dreamcast emulator built specifically for the Nintend
 | ------------------------------------------------- | -------------------------------------------------------- |
 | ![Main Menu](https://example.com/images/menu.png) | ![Sonic Adventure](https://example.com/images/sonic.png) |
 
+![477px-Sega-dreamcast-set](https://github.com/user-attachments/assets/443af8a2-9f5d-4dd4-b3f2-f4f18c53b7b2)
+
+![OIP](https://github.com/user-attachments/assets/2beb4837-6212-476a-818a-574969c20811)
+
 ---
 
-## 📄 License![477px-Sega-dreamcast-set](https://github.com/user-attachments/assets/363898f5-aabd-4deb-adc1-8970ffd47c1e)
-![477px-Sega-dreamcast-set](https://github.com/user-attachments/assets/7350181f-7332-431f-80f6-5b703fbeb971)
-
-![OIP](https://github.com/user-attachments/assets/dafc3a16-5920-44df-88dc-014e831e28b4)
-
+## 📄 License
 This project is licensed under the [MIT License](LICENSE). Sega and Dreamcast trademarks are owned by SEGA Corporation. This emulator is a fan project and is not affiliated with SEGA.![OIP](https://github.com/user-attachments/assets/05f2b4ef-a66f-4cce-8cb7-2420dd5eecb6)
