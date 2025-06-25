@@ -99,4 +99,4 @@ A powerful and modern Sega Dreamcast emulator built specifically for the Nintend
 ---
 
 ## 📄 License
-This project is licensed under the [MIT License](LICENSE). Sega and Dreamcast trademarks are owned by SEGA Corporation. This emulator is a fan project and is not affiliated with SEGA.![OIP](https://github.com/user-attachments/assets/05f2b4ef-a66f-4cce-8cb7-2420dd5eecb6)
+This project is licensed under the [MIT License](LICENSE). Sega and Dreamcast trademarks are owned by SEGA Corporation. This emulator is a fan project and is not affiliated with SEGA.
